@@ -33,11 +33,16 @@ O projeto permite o cadastro de usuários, login, marcação e desmarcação de 
 
 ## 🖥️Interfaces
 
-![image](https://github.com/user-attachments/assets/0d94c521-b6f5-44d2-8429-b209a08b78b6)
+![Tela Inicial](Imagens/TelaInicial.png)
 
-![image](https://github.com/user-attachments/assets/1cf6506b-e9c1-4dd2-9450-ec95cd74b6b2)
+![Tela Login](Imagens/TelaLogin.png)
 
-![image](https://github.com/user-attachments/assets/c693c7ac-9b13-4a26-b31b-acce24aa6b11)
+![Tela Principal](Imagens/TelaPrincipal.png)
 
-![image](https://github.com/user-attachments/assets/6b9c7402-011e-4011-9a50-27407b28b84c)
+![Tela agendar consulta](Imagens/AgendarConsulta.png)
 
+![Cadastro](Imagens/Cadastro.png)
+
+_Login administrativo:_
+
+![Admin Cadastros](Imagens/AdminCadastros.png)
